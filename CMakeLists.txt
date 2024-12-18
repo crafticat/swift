@@ -12,4 +12,14 @@ add_executable(hash main.cpp
         algo/hashmaps/SetHashmap.hpp
         algo/sets/Set.hpp
         algo/sets/STDSet.hpp
-        algo/sets/GNUSet.hpp)
+        algo/sets/GNUSet.hpp
+        algo/tester/MapTesterManager.hpp
+        algo/tester/Tester.hpp
+        algo/tester/TestResults.hpp
+        utils/math.hpp
+        utils/Settings.hpp
+        algo/tester/TesterManager.hpp
+        algo/segments_tree/SegmentTree.hpp
+        algo/segments_tree/SegmentTreePointer.hpp
+        algo/segments_tree/SegmentTreeIter.hpp
+        algo/tester/SegmentTreeTesterManager.hpp)
